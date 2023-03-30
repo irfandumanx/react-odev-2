@@ -1,0 +1,14 @@
+.expense-filter {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 15px;
+  align-items: end;
+}
+
+#years {
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+}
